@@ -1,0 +1,3 @@
+com\core\springboot\ms\eurekaclient\EurekaClientApplication.class
+com\core\springboot\ms\eurekaclient\CallBackClient.class
+com\core\springboot\ms\eurekaclient\ServiceInstanceRestController.class
