@@ -1,0 +1,5 @@
+com\core\springboot\ms\security\AuthResourceServer.class
+com\core\springboot\ms\security\config\JwtConfiguration.class
+com\core\springboot\ms\security\config\GlobalMethodSecurityConfiguration.class
+com\core\springboot\ms\security\WebController.class
+com\core\springboot\ms\security\config\ResourceServerConfiguration.class
