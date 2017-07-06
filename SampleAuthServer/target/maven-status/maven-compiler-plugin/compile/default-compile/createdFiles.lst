@@ -1,0 +1,4 @@
+com\core\springboot\ms\security\OAuth2Configuration.class
+com\core\springboot\ms\security\WebSecurityConfig.class
+com\core\springboot\ms\security\AuthServerApplication.class
+com\core\springboot\ms\security\RestAuthenticationEntryPoint.class
